@@ -898,7 +898,7 @@
     margin: 0 1rem;
   }
 /*** Hmaburger! ***/
-    .header .menu-icon {
+  .header .menu-icon {
     cursor: pointer;
     padding: 2.5rem;
     position: relative;
